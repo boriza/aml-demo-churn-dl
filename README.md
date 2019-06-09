@@ -1,1 +1,1 @@
-# boriza-aml-demo-churn-dl
+# aml-demo-churn-dl
